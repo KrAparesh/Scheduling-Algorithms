@@ -37,6 +37,10 @@ class RRHandler {
     }
 }
 
+/**
+ * The Main class is the entry point of the program and contains the main method.
+ * It provides functionality for executing the First Come First Serve (FCFS) and Round Robin scheduling algorithms.
+ */
 public class Main {
 
     protected static int timeQuantum = 4;

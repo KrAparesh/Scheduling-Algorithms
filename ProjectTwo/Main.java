@@ -1,4 +1,8 @@
 import java.util.*;
+/**
+ * The Main class represents the entry point of the program and contains the main logic for the Banker's algorithm.
+ * It manages the process list, calculates remaining and available instances, and determines if the system is in a safe state.
+ */
 public class Main {
 
     protected static int totalA, availA;
